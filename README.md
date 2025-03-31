@@ -1,4 +1,4 @@
-# Linear-Prediction-Quality-Analysis-and-T-Test-on-California-Housing-Prices-Data-Set
+# Predictive Modeling on California Housing Prices
 
 Part 0: Preparations
 Load the data set you chose and explore its theme, columns and rows.
